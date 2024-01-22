@@ -20,8 +20,16 @@ git log --Tells the history of all changes from beginning
 
 git diff <filename>
 
+
+
+-------------------------------------
+
+Adding this text 
+as part of feature branch1 developement work.
+This is testing branches in github
+>>>>>>> 9a1c1b82abb3cb5739759807447bc53c2584327b
+
 -----------------------------
 
 Adding this line for code from private branch2
-
-
+=======
