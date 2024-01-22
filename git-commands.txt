@@ -7,7 +7,7 @@ git status  -- checks whether git repository or not and tells the status of the 
 
 git init   -- initiates git repository
 
-git config --global user.name "Let's Kode It"
+git config --global user.name "badarib"
 
 git config --global user.email badarib@gmail.com
 
@@ -15,7 +15,8 @@ git add
 
 git commit -m ""
 
-git log
+git log --Tells the history of all changes from beginning
+
 
 git diff <filename>
 
