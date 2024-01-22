@@ -3,7 +3,7 @@ Git Practice
 
 https://www.youtube.com/watch?v=Q1kHG842HoI
 
-git status  -- checks whether git repository or not. 
+git status  -- checks whether git repository or not and tells the status of the files under this folder/repo
 
 git init   -- initiates new folder as empty git repository
 
