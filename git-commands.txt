@@ -1,0 +1,22 @@
+
+Git Practice
+
+https://www.youtube.com/watch?v=Q1kHG842HoI
+
+git status  -- checks whether git repository or not. 
+
+git init   -- initiates new folder as empty git repository
+
+git config --global user.name "Let's Kode It"
+
+git config --global user.email badarib@gmail.com
+
+git add
+
+git commit -m ""
+
+git log
+
+git diff <filename>
+
+
